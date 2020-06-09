@@ -1,0 +1,20 @@
+
+ body {
+            background-color: #f1f6f8ff;
+            width: 80%;
+            align-self: center;
+        }
+
+hr {
+            background-color:#f1f6f8ff;
+            border-style:none;
+            border-top-style: dotted ;
+            width: 10%;
+            border-color: #B3D1CDff;
+            border-width: 5px;
+    }
+
+thead, h1, h3, strong{
+color: #4f6d7aff;
+
+}
